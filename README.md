@@ -11,9 +11,11 @@ Shubhpuri Goswami [KU2407U493]
 Vansh Kanodiya [KU2407U494]
 
 Objective of the Project:
+
 The goal of this project is to analyze customer churn in a retail setting using machine learning techniques. We aim to identify factors that contribute to customer attrition and predict which customers are at high risk of churning, enabling businesses to take proactive measures to retain valuable customers.
 
  Tools and Libraries Used:
+ 
 -*Programming Language*: Python
 - Google Colab
 - Pandas: For data manipulation and analysis
@@ -24,7 +26,8 @@ Data Source(s):
   churn status.
 - Data Link: [Kaggle: Retail Customer Churn] (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-Execution Steps: 
+Execution Steps:
+
 Step 1: Open Google Colab
 Go to Google Colab.
 Create a new notebook by clicking on "New Notebook".
@@ -47,6 +50,7 @@ Step 6: View the Output
 The bar plot visualizing Customer Churn Distribution will be displayed as the output
 
 Summary of the Result :
+
 The graph shows that most customers (around 5000) were retained, while a smaller portion (around 1500) churned. This indicates that the majority of customers are loyal, but the churn rate of approximately 23% suggests there is still room to improve retention strategies to reduce customer loss.
 
 Challenges Faced :  
