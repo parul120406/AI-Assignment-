@@ -2,10 +2,13 @@
 Topic : "Retail Customer Churn Analysis"
 
 Group Members :
-Parul Gupta KU2407U491
-Shailja Jagani KU2407U492
-Shubhpuri Goswami KU2407U493
-Vansh Kanodiya KU2407U494
+Parul Gupta [KU2407U491]
+
+Shailja Jagani [KU2407U492]
+
+Shubhpuri Goswami [KU2407U493]
+
+Vansh Kanodiya [KU2407U494]
 
 Objective of the Project:
 The goal of this project is to analyze customer churn in a retail setting using machine learning techniques. We aim to identify factors that contribute to customer attrition and predict which customers are at high risk of churning, enabling businesses to take proactive measures to retain valuable customers.
