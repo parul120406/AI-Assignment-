@@ -32,21 +32,26 @@ The goal of this project is to analyze customer churn in a retail setting using 
 Go to Google Colab.
 Create a new notebook by clicking on "New Notebook".
 
-Step 2: Upload the Data File
+### Step 2: Upload the Data File
+
 Click on the folder icon on the left sidebar in Colab to open the file browser.
 Click on the Upload icon (shaped like a file with an arrow pointing up).
 Upload your data.csv file.
 
-Step 3: Install Dependencies
+### Step 3: Install Dependencies
+
 Run the Code to install - matplotlib.pyplot , pandas
 
-Step 4: Write the Code 
+### Step 4: Write the Code 
+
 Write the required Python Code
 
-Step 5: Execute the Code
+### Step 5: Execute the Code
+
 Press Shift + Enter or click the Run button on the code cell to execute it.
 
-Step 6: View the Output
+### Step 6: View the Output
+
 The bar plot visualizing Customer Churn Distribution will be displayed as the output
 
 ## Summary of the Result :
