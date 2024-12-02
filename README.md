@@ -1,8 +1,8 @@
 # AI-Assignment-
 
-## Team - DataForge
-
 ## Topic : "Retail Customer Churn Analysis"
+
+## Team - DataForge
 
 ## Group Members :
 Parul Gupta [KU2407U491]
