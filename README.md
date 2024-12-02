@@ -28,7 +28,7 @@ The goal of this project is to analyze customer churn in a retail setting using 
 
 ## Execution Steps:
 
-Step 1: Open Google Colab
+### Step 1: Open Google Colab
 Go to Google Colab.
 Create a new notebook by clicking on "New Notebook".
 
